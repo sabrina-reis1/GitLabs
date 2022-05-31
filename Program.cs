@@ -17,5 +17,8 @@ if(operacao == "Multiplicar")
     Console.WriteLine(n1*n2);
 }
 
-
+if(operacao == "Dividir")
+{
+    Console.WriteLine(n1/n2);
+}
 Console.WriteLine("Obrigado por usar esse programa");

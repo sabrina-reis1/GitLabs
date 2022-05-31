@@ -3,4 +3,5 @@
 Caluladora com as funções: 
 - Somar 
 - Subtrair 
-- Multiplicar.
+- Multiplicar
+- Dividir
